@@ -1,0 +1,4 @@
+exclude *
+include mobiledb.py
+include mobiledb.pickle
+include README.md
